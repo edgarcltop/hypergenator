@@ -44,7 +44,7 @@ The Lambda functions are located in the src/lambda directory and are written in 
 ```
 
 
-🌐 Deployment
+## 🌐 Deployment
 This project is configured for seamless deployment on Netlify:
 
 The netlify.toml file contains all deployment configuration
@@ -54,7 +54,7 @@ Lambda functions are automatically built and deployed
 Continuous deployment is set up through Netlify
 
 
-🔧 Configuration
+## 🔧 Configuration
 TypeScript Configuration
 tsconfig.json - TypeScript compiler options
 
@@ -63,7 +63,7 @@ Supports both client-side and server-side TypeScript
 Babel Configuration
 .babelrc - Babel transpilation settings
 
-📦 Dependencies
+## 📦 Dependencies
 Key dependencies include:
 
 React
@@ -76,7 +76,7 @@ Babel for transpilation
 
 For a complete list, check the package.json file.
 
-🎯 Features
+## 🎯 Features
 Full TypeScript Support: Type-safe code both frontend and backend
 
 Serverless Architecture: AWS Lambda functions for backend logic
