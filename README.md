@@ -6,9 +6,6 @@ A TypeScript-based React application with AWS Lambda functions, forked from [Net
 
 Hypergenator is a modern web application that combines a TypeScript React frontend with serverless AWS Lambda functions, deployed on Netlify. This project maintains full TypeScript support both on the client-side and in the Lambda functions.
 
-## 📁 Project Structure
-
-
 
 ## 🛠️ Tech Stack
 
@@ -44,6 +41,7 @@ yarn build
 
 Lambda Development
 The Lambda functions are located in the src/lambda directory and are written in TypeScript. They are automatically built and deployed with your Netlify application.
+```
 
 
 🌐 Deployment
