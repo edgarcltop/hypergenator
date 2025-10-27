@@ -1,6 +1,6 @@
 # Hypergenator
 
-A TypeScript-based React application with AWS Lambda functions, forked from [Netlify Create React App Lambda](https://github.com/netlify/create-react-app-lambda).
+A TypeScript-based React application with AWS Lambda functions, forked from.
 
 ## 🚀 Overview
 
